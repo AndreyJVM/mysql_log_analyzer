@@ -1,0 +1,7 @@
+
+2024-01-15T10:00:00.000000Z 0 [ERROR] [MY-000000] [Server] Could not open log file
+2024-01-15T10:01:00.000000Z 0 [Warning] [MY-000000] [Server] Some warning here
+2024-01-15T10:02:00.000000Z 0 [ERROR] [MY-000000] [Server] Connection refused for user 'root'
+2024-01-15T10:03:00.000000Z 0 [Note] [MY-000000] [Server] Server started
+2024-01-15T10:04:00.000000Z 0 [ERROR] [MY-000000] [Server] Timeout waiting for lock
+2024-01-15T10:05:00.000000Z 0 [ERROR] [MY-000000] [Server] Deadlock found
